@@ -22,4 +22,3 @@ var emailft = document.getElementById("email");
 emailft.addEventListener("click",function(){
     window.open("mailto:s6401072510168@email.kmutnb.ac.th","_blank");
 });
-
